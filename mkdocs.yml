@@ -1,4 +1,10 @@
-site_name: Eosrce
+site_name: Eosrce Docs
+site_url: https://docs.eosrce.icu
+site_author: Eosrce
+
+repo_url: https://github.com/eosrce/docs
+edit_uri: blob/master/docs/
+
 theme:
   name: material
   custom_dir: overrides
