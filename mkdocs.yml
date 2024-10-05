@@ -1,5 +1,5 @@
 site_name: Eosrce Docs
-site_url: https://docs.eosrce.icu
+site_url: http://docs.eosrce.icu
 site_author: Eosrce
 
 repo_url: https://github.com/eosrce/docs
@@ -33,7 +33,7 @@ plugins:
       separator: '[\s\-,:!=\[\]()"/]+|(?!\b)(?=[A-Z][a-z])|\.(?!\d)|&[lg]t;'
 
 extra:
-  homepage: https://docs.eosrce.icu
+  homepage: http://docs.eosrce.icu
   social:
     - icon: fontawesome/solid/paper-plane
       link: mailto:eosrce@foxmail.com
