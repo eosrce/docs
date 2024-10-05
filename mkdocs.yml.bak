@@ -1,0 +1,31 @@
+site_name: Eosrce
+theme:
+  name: material
+  custom_dir: overrides
+  logo: assets/logo.png
+  favicon: images/favicon.png
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.tabs
+    # - navigation.sections
+    # - navigation.expand
+    - navigation.footer
+    - search.suggest
+    - search.highlight
+    - search.share
+
+plugins:
+  - search:
+      lang:
+        - en
+        - zh
+      separator: '[\s\-,:!=\[\]()"/]+|(?!\b)(?=[A-Z][a-z])|\.(?!\d)|&[lg]t;'
+
+extra:
+  homepage: https://docs.eosrce.icu
+  social:
+    - icon: fontawesome/solid/paper-plane
+      link: mailto:eosrce@foxmail.com
+
+copyright: Copyright &copy; 2023 Eosrce
