@@ -1,3 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://docs.eosrce.icu/</loc>
+         <lastmod>2024-10-05</lastmod>
+    </url>
+    <url>
+         <loc>https://docs.eosrce.icu/changelog/</loc>
+         <lastmod>2024-10-05</lastmod>
+    </url>
+    <url>
+         <loc>https://docs.eosrce.icu/to_be_completed/%E5%A4%A7%E7%BA%B2/</loc>
+         <lastmod>2024-10-05</lastmod>
+    </url>
+    <url>
+         <loc>https://docs.eosrce.icu/to_be_completed/%E5%AE%9E%E7%94%A8%E6%8A%80%E6%9C%AF/Linux%E5%B8%B8%E8%A7%81%E9%94%99%E8%AF%AF/a/</loc>
+         <lastmod>2024-10-05</lastmod>
+    </url>
+    <url>
+         <loc>https://docs.eosrce.icu/to_be_completed/%E5%AE%9E%E7%94%A8%E6%8A%80%E6%9C%AF/Linux%E5%B8%B8%E8%A7%81%E9%94%99%E8%AF%AF/updates_for_this_repository_will_not_be_applied/</loc>
+         <lastmod>2024-10-05</lastmod>
+    </url>
 </urlset>
